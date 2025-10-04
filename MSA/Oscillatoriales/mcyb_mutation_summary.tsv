@@ -1,0 +1,7 @@
+Header	Order	Mutations
+lcl|CP003614.1_cds_AFZ04852.1_204 [locus_tag=Osc7112_0222] [db_xref=InterPro:IPR000873,InterPro:IPR001031,InterPro:IPR001173,InterPro:IPR001242,InterPro:IPR006163,InterPro:IPR009081,InterPro:IPR020845] [protein=amino acid adenylation domain protein] [protein_id=AFZ04852.1] [location=complement(246542..250873)] [gbkey=CDS]	Oscillatoriales	1430
+AF183408.1:45196-51576 Microcystis aeruginosa PCC 7806 DNA polymerase III beta subunit (dnaN) gene, partial cds; microcystin synthetase gene cluster, complete sequence; Uma1 (uma1), Uma2 (uma2), Uma3 (uma3), Uma4 (uma4), and Uma5 (uma5) genes, complete cds; and Uma6 (uma6) gene, partial cds	Oscillatoriales	1565
+lcl|NZ_CM001775.1_cds_WP_017294956.1_2590 [locus_tag=SYN6308_RS13380] [protein=amino acid adenylation domain-containing protein] [protein_id=WP_017294956.1] [location=complement(2689419..2692343)] [gbkey=CDS]	Oscillatoriales	1111
+
+Order	NumSequences	AvgMutations
+Oscillatoriales	3	1368.67

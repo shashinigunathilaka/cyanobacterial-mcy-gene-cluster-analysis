@@ -1,0 +1,14 @@
+E:\Research\Research\bin\Debug\net8.0\Research.exe
+E:\Research\Research\bin\Debug\net8.0\Research.deps.json
+E:\Research\Research\bin\Debug\net8.0\Research.runtimeconfig.json
+E:\Research\Research\bin\Debug\net8.0\Research.dll
+E:\Research\Research\bin\Debug\net8.0\Research.pdb
+E:\Research\Research\obj\Debug\net8.0\Research.GeneratedMSBuildEditorConfig.editorconfig
+E:\Research\Research\obj\Debug\net8.0\Research.AssemblyInfoInputs.cache
+E:\Research\Research\obj\Debug\net8.0\Research.AssemblyInfo.cs
+E:\Research\Research\obj\Debug\net8.0\Research.csproj.CoreCompileInputs.cache
+E:\Research\Research\obj\Debug\net8.0\Research.dll
+E:\Research\Research\obj\Debug\net8.0\refint\Research.dll
+E:\Research\Research\obj\Debug\net8.0\Research.pdb
+E:\Research\Research\obj\Debug\net8.0\Research.genruntimeconfig.cache
+E:\Research\Research\obj\Debug\net8.0\ref\Research.dll

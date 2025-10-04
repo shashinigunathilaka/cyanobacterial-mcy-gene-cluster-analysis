@@ -1,0 +1,13 @@
+Gene,Order,Missense,Frameshift,FrameshiftDeletion,FrameshiftInsertion,Complex,InFrame
+mcyA,Chroococcales,7026,0,7134,13554,0,0
+mcyA,Nostocales,10504,0,9177,3966,0,0
+mcyA,Oscillatoriales,3916,0,2270,7880,0,0
+mcyB,Chroococcales,7899,0,5462,7892,0,0
+mcyB,Nostocales,8569,0,6000,4992,0,0
+mcyB,Oscillatoriales,4106,0,1668,5271,0,0
+mcyE,Chroococcales,20927,0,14065,30877,0,0
+mcyE,Nostocales,32439,0,19028,34787,0,0
+mcyE,Oscillatoriales,29111,0,15461,22295,0,0
+mcyH,Chroococcales,96723,0,107527,29777,0,0
+mcyH,Nostocales,143292,0,153268,51095,0,0
+mcyH,Oscillatoriales,115660,0,179053,66975,0,0

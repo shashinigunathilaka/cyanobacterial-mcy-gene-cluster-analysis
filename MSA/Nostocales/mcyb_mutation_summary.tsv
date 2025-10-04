@@ -1,0 +1,8 @@
+Header	Order	Mutations
+lcl|CP003284.1_cds_AFW93776.1_960 [gene=mcyB] [locus_tag=ANA_C10986] [protein=nonribosomal peptide synthetase McyB] [protein_id=AFW93776.1] [location=1087839..1094240] [gbkey=CDS]	Nostocales	1772
+lcl|CP003659.1_cds_AFZ56828.1_1213 [locus_tag=Anacy_1300] [db_xref=InterPro:IPR000873,InterPro:IPR001242,InterPro:IPR006162,InterPro:IPR006163,InterPro:IPR009081,InterPro:IPR020845] [protein=amino acid adenylation domain protein] [protein_id=AFZ56828.1] [location=1552588..1557636] [gbkey=CDS]	Nostocales	1902
+lcl|AP018166.1_cds_BAY06233.1_5459 [locus_tag=NIES19_55160] [protein=amino acid adenylation] [protein_id=BAY06233.1] [location=complement(6233380..6238428)] [gbkey=CDS]	Nostocales	1902
+lcl|AP018166.1_cds_BAY02137.1_1363 [locus_tag=NIES19_13760] [protein=amino acid adenylation domain-containing protein] [protein_id=BAY02137.1] [location=1629796..1637811] [gbkey=CDS]	Nostocales	2993
+
+Order	NumSequences	AvgMutations
+Nostocales	4	2142.25

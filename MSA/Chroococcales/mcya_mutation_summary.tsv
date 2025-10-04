@@ -1,0 +1,9 @@
+Header	Order	Mutations
+lcl|AP009552.1_cds_BAG05472.1_5649 [locus_tag=MAE_56500] [protein=amino acid adenylation participated protein like] [protein_id=BAG05472.1] [location=complement(5197319..5201791)] [gbkey=CDS]	Chroococcales	1393
+lcl|AP009552.1_cds_BAG02604.1_2782 [locus_tag=MAE_27820] [protein=amino acid adenylation] [protein_id=BAG02604.1] [location=2518396..2521329] [gbkey=CDS]	Chroococcales	1416
+lcl|NC_011729.1_cds_WP_015956918.1_4959 [locus_tag=PCC7424_RS24520] [protein=amino acid adenylation domain-containing protein] [protein_id=WP_015956918.1] [location=5537902..5541912] [gbkey=CDS]	Chroococcales	1185
+AF183408.1:36793-45180 Microcystis aeruginosa PCC 7806 DNA polymerase III beta subunit (dnaN) gene, partial cds; microcystin synthetase gene cluster, complete sequence; Uma1 (uma1), Uma2 (uma2), Uma3 (uma3), Uma4 (uma4), and Uma5 (uma5) genes, complete cds; and Uma6 (uma6) gene, partial cds	Chroococcales	1519
+lcl|AP009552.1_cds_BAG03679.1_3854 [gene=mcyA] [locus_tag=MAE_38570] [protein=McyA protein] [protein_id=BAG03679.1] [location=complement(3496704..3505067)] [gbkey=CDS]	Chroococcales	1513
+
+Order	NumSequences	AvgMutations
+Chroococcales	5	1405.20

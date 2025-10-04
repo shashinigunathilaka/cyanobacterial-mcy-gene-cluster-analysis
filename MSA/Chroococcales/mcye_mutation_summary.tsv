@@ -1,0 +1,42 @@
+Header	Order	Mutations
+lcl|AP024565.1_cds_BCU10009.1_573 [locus_tag=MAN88_05730] [protein=class V aminotransferase] [protein_id=BCU10009.1] [location=566504..567658] [gbkey=CDS]	Chroococcales	572
+lcl|AP024565.1_cds_BCU10819.1_1383 [gene=argD] [locus_tag=MAN88_13830] [protein=acetylornithine aminotransferase] [protein_id=BCU10819.1] [location=complement(1468682..1469965)] [gbkey=CDS]	Chroococcales	659
+lcl|AP024565.1_cds_BCU12054.1_2618 [gene=glmS] [locus_tag=MAN88_26180] [protein=glutamine--fructose-6-phosphate aminotransferase [isomerizing]] [protein_id=BCU12054.1] [location=complement(2706255..2708156)] [gbkey=CDS]	Chroococcales	748
+lcl|BLJI01000004.1_cds_GFE68744.1_1354 [locus_tag=CFPU101_13540] [protein=L,L-diaminopimelate aminotransferase] [protein_id=GFE68744.1] [location=183882..185135] [gbkey=CDS]	Chroococcales	357
+lcl|NC_011729.1_cds_WP_015956400.1_4432 [locus_tag=PCC7424_RS21875] [protein=acetyl ornithine aminotransferase family protein] [protein_id=WP_015956400.1] [location=4937456..4938781] [gbkey=CDS]	Chroococcales	688
+lcl|AP024565.1_cds_BCU11529.1_2093 [locus_tag=MAN88_20930] [protein=succinyldiaminopimelate aminotransferase] [protein_id=BCU11529.1] [location=2162059..2163276] [gbkey=CDS]	Chroococcales	673
+lcl|NC_011729.1_cds_WP_015957025.1_5063 [locus_tag=PCC7424_RS25050] [protein=alanine--glyoxylate aminotransferase family protein] [protein_id=WP_015957025.1] [location=5658003..5659148] [gbkey=CDS]	Chroococcales	579
+lcl|CP002198.1_cds_ADN13947.1_1893 [locus_tag=Cyan7822_1964] [db_xref=InterPro:IPR004839,InterPro:IPR015421,InterPro:IPR015422,InterPro:IPR015424,InterPro:IPR019942] [protein=LL-diaminopimelate aminotransferase] [protein_id=ADN13947.1] [location=2171413..2172648] [gbkey=CDS]	Chroococcales	404
+lcl|AP009552.1_cds_BAG00913.1_1090 [locus_tag=MAE_10910] [protein=DegT/DnrJ/EryC1/StrS aminotransferase family enzyme] [protein_id=BAG00913.1] [location=937255..938601] [gbkey=CDS]	Chroococcales	669
+lcl|NZ_BLJI01000002.1_cds_WP_206814059.1_831 [locus_tag=CFPU101_RS04155] [protein=DegT/DnrJ/EryC1/StrS aminotransferase family protein] [protein_id=WP_206814059.1] [location=complement(324582..325739)] [gbkey=CDS]	Chroococcales	566
+lcl|CP001291.1_cds_ACK73504.1_5030 [locus_tag=PCC7424_5154] [db_xref=InterPro:IPR004636,InterPro:IPR005814] [protein=acetylornithine and succinylornithine aminotransferase] [protein_id=ACK73504.1] [location=5722240..5723520] [gbkey=CDS]	Chroococcales	653
+lcl|NC_011729.1_cds_WP_015957084.1_5122 [locus_tag=PCC7424_RS25345] [protein=aspartate aminotransferase family protein] [protein_id=WP_015957084.1] [location=5722240..5723520] [gbkey=CDS]	Chroococcales	653
+lcl|CP001291.1_cds_ACK70749.1_2275 [locus_tag=PCC7424_2328] [db_xref=InterPro:IPR000583,InterPro:IPR001347,InterPro:IPR005855] [protein=glucosamine/fructose-6-phosphate aminotransferase, isomerizing] [protein_id=ACK70749.1] [location=complement(2596169..2598064)] [gbkey=CDS]	Chroococcales	742
+lcl|BLJI01000012.1_cds_GFE69972.1_2582 [gene=argD] [locus_tag=CFPU101_25820] [protein=N-acetylornithine aminotransferase] [protein_id=GFE69972.1] [location=complement(128119..129393)] [gbkey=CDS]	Chroococcales	653
+lcl|BLJI01000002.1_cds_GFE68030.1_640 [locus_tag=CFPU101_06400] [protein=putative aminotransferase] [protein_id=GFE68030.1] [location=complement(138450..139640)] [gbkey=CDS]	Chroococcales	606
+AF183408.1:13710-24173 Microcystis aeruginosa PCC 7806 DNA polymerase III beta subunit (dnaN) gene, partial cds; microcystin synthetase gene cluster, complete sequence; Uma1 (uma1), Uma2 (uma2), Uma3 (uma3), Uma4 (uma4), and Uma5 (uma5) genes, complete cds; and Uma6 (uma6) gene, partial cds	Chroococcales	868
+lcl|CP001291.1_cds_ACK72137.1_3663 [locus_tag=PCC7424_3756] [db_xref=InterPro:IPR001544,InterPro:IPR002345] [protein=aminotransferase class IV] [protein_id=ACK72137.1] [location=complement(4171806..4172603)] [gbkey=CDS]	Chroococcales	253
+lcl|NC_011729.1_cds_WP_015954979.1_2971 [locus_tag=PCC7424_RS14675] [protein=aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme] [protein_id=WP_015954979.1] [location=3322818..3324083] [gbkey=CDS]	Chroococcales	655
+lcl|NC_011729.1_cds_WP_015955776.1_3781 [locus_tag=PCC7424_RS18725] [protein=pyridoxal-phosphate-dependent aminotransferase family protein] [protein_id=WP_015955776.1] [location=4229470..4230624] [gbkey=CDS]	Chroococcales	595
+lcl|NC_011729.1_cds_WP_012598170.1_761 [locus_tag=PCC7424_RS03745] [protein=aminotransferase class V-fold PLP-dependent enzyme] [protein_id=WP_012598170.1] [location=858328..859542] [gbkey=CDS]	Chroococcales	633
+lcl|JACJSW010000046.1_cds_H6G48_03455_4171 [locus_tag=H6G48_03455] [protein=aminotransferase class III-fold pyridoxal phosphate-dependent enzyme] [pseudo=true] [location=84887..85273] [gbkey=CDS]	Chroococcales	235
+lcl|AP009552.1_cds_BAG03733.1_3908 [locus_tag=MAE_39110] [protein=probable branched-chain amino acid aminotransferase] [protein_id=BAG03733.1] [location=3586765..3587688] [gbkey=CDS]	Chroococcales	498
+lcl|CP001291.1_cds_ACK68748.1_274 [locus_tag=PCC7424_0280] [db_xref=InterPro:IPR000653] [protein=DegT/DnrJ/EryC1/StrS aminotransferase] [protein_id=ACK68748.1] [location=307191..308318] [gbkey=CDS]	Chroococcales	552
+lcl|NC_011729.1_cds_WP_012597698.1_281 [locus_tag=PCC7424_RS01365] [protein=DegT/DnrJ/EryC1/StrS family aminotransferase] [protein_id=WP_012597698.1] [location=307191..308318] [gbkey=CDS]	Chroococcales	552
+lcl|NC_011729.1_cds_WP_015955978.1_3997 [locus_tag=PCC7424_RS19740] [protein=aspartate aminotransferase] [protein_id=WP_015955978.1] [location=4451763..4452965] [gbkey=CDS]	Chroococcales	619
+lcl|AP024565.1_cds_BCU10585.1_1149 [gene=ilvE] [locus_tag=MAN88_11490] [protein=branched chain amino acid aminotransferase] [protein_id=BCU10585.1] [location=1217801..1218610] [gbkey=CDS]	Chroococcales	457
+lcl|CP001291.1_cds_ACK68514.1_40 [locus_tag=PCC7424_0041] [db_xref=InterPro:IPR000192,InterPro:IPR001597] [protein=aminotransferase class V] [protein_id=ACK68514.1] [location=50276..51445] [gbkey=CDS]	Chroococcales	559
+lcl|SFAT01000131.1_cds_TRU95778.1_785 [locus_tag=EWV75_12945] [protein=dTDP-4-dehydro-6-deoxyglucose aminotransferase] [protein_id=TRU95778.1] [location=complement(5802..6956)] [gbkey=CDS]	Chroococcales	537
+lcl|BLJI01000002.1_cds_GFE68242.1_852 [locus_tag=CFPU101_08520] [protein=predicted pyridoxal dependent aminotransferase] [protein_id=GFE68242.1] [location=352501..353655] [gbkey=CDS]	Chroococcales	537
+lcl|BLJI01000001.1_cds_GFE67433.1_43 [locus_tag=CFPU101_00430] [protein=aminotransferase class-III, putative glutamate-1-semialdehyde aminotransferase] [protein_id=GFE67433.1] [location=complement(42703..44181)] [gbkey=CDS]	Chroococcales	555
+lcl|CP001291.1_cds_ACK68902.1_428 [locus_tag=PCC7424_0436] [db_xref=InterPro:IPR001176,InterPro:IPR004839] [protein=aminotransferase class I and II] [protein_id=ACK68902.1] [location=477380..478525] [gbkey=CDS]	Chroococcales	466
+lcl|NC_011729.1_cds_WP_041237623.1_433 [locus_tag=PCC7424_RS02095] [protein=pyridoxal phosphate-dependent aminotransferase] [protein_id=WP_041237623.1] [location=477359..478525] [gbkey=CDS]	Chroococcales	473
+lcl|CP001291.1_cds_ACK72610.1_4136 [locus_tag=PCC7424_4240] [db_xref=InterPro:IPR001917,InterPro:IPR004839,InterPro:IPR005861] [protein=histidinol-phosphate aminotransferase] [protein_id=ACK72610.1] [location=complement(4705853..4706917)] [gbkey=CDS]	Chroococcales	400
+lcl|CP001292.1_cds_ACK73814.1_5340 [locus_tag=PCC7424_5749] [db_xref=InterPro:IPR005814] [protein=aminotransferase class-III] [protein_id=ACK73814.1] [location=complement(136095..137546)] [gbkey=CDS]	Chroococcales	591
+lcl|AP009552.1_cds_BAG01939.1_2116 [locus_tag=MAE_21170] [protein=class I/II aminotransferase] [protein_id=BAG01939.1] [location=1893968..1895290] [gbkey=CDS]	Chroococcales	341
+lcl|CP097576.1_cds_UZO75462.1_4405 [locus_tag=M8120_22220] [protein=pyridoxal phosphate-dependent aminotransferase family protein] [protein_id=UZO75462.1] [location=4446791..4447651] [gbkey=CDS]	Chroococcales	327
+lcl|AP009552.1_cds_BAG03683.1_3858 [gene=mcyE] [locus_tag=MAE_38610] [protein=McyE protein] [protein_id=BAG03683.1] [location=3517846..3528309] [gbkey=CDS]	Chroococcales	745
+lcl|CP001291.1_cds_ACK73157.1_4683 [locus_tag=PCC7424_4800] [db_xref=InterPro:IPR001544,InterPro:IPR005785] [protein=branched-chain amino acid aminotransferase] [protein_id=ACK73157.1] [location=5333199..5334113] [gbkey=CDS]	Chroococcales	257
+
+Order	NumSequences	AvgMutations
+Chroococcales	38	550.71

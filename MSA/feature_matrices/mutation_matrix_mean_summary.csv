@@ -1,0 +1,13 @@
+Gene,Order,MeanPercentMutated,NumSequences
+mcyA,Chroococcales,47.37,6
+mcyB,Chroococcales,50.99,6
+mcyE,Chroococcales,11.67,39
+mcyH,Chroococcales,32.31,156
+mcyA,Nostocales,48.40,5
+mcyB,Nostocales,45.51,5
+mcyE,Nostocales,12.78,54
+mcyH,Nostocales,26.17,243
+mcyA,Oscillatoriales,40.71,4
+mcyB,Oscillatoriales,39.15,4
+mcyE,Oscillatoriales,12.82,49
+mcyH,Oscillatoriales,28.59,205

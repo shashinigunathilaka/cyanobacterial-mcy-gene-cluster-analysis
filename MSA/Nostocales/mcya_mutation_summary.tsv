@@ -1,0 +1,8 @@
+Header	Order	Mutations
+AF183408.1:36793-45180 Microcystis aeruginosa PCC 7806 DNA polymerase III beta subunit (dnaN) gene, partial cds; microcystin synthetase gene cluster, complete sequence; Uma1 (uma1), Uma2 (uma2), Uma3 (uma3), Uma4 (uma4), and Uma5 (uma5) genes, complete cds; and Uma6 (uma6) gene, partial cds	Nostocales	3032
+lcl|CP003284.1_cds_AFW93775.1_959 [gene=mcyA] [locus_tag=ANA_C10985] [protein=nonribosomal peptide sythetase McyA] [protein_id=AFW93775.1] [location=1079455..1087821] [gbkey=CDS]	Nostocales	2958
+lcl|CP003659.1_cds_AFZ56828.1_1213 [locus_tag=Anacy_1300] [db_xref=InterPro:IPR000873,InterPro:IPR001242,InterPro:IPR006162,InterPro:IPR006163,InterPro:IPR009081,InterPro:IPR020845] [protein=amino acid adenylation domain protein] [protein_id=AFZ56828.1] [location=1552588..1557636] [gbkey=CDS]	Nostocales	2257
+lcl|AP018166.1_cds_BAY06233.1_5459 [locus_tag=NIES19_55160] [protein=amino acid adenylation] [protein_id=BAY06233.1] [location=complement(6233380..6238428)] [gbkey=CDS]	Nostocales	2257
+
+Order	NumSequences	AvgMutations
+Nostocales	4	2626.00

@@ -1,0 +1,563 @@
+[Chroococcales] ABC transporter: 3938 sequences saved to E:\Research\Research\ExtractedGenes\Chroococcales\ABC transporter.fasta
+[Chroococcales] adenylation: 96 sequences saved to E:\Research\Research\ExtractedGenes\Chroococcales\adenylation.fasta
+[Chroococcales] mcyB: 2 sequences saved to E:\Research\Research\ExtractedGenes\Chroococcales\mcyB.fasta
+[Chroococcales] mcyA: 2 sequences saved to E:\Research\Research\ExtractedGenes\Chroococcales\mcyA.fasta
+[Chroococcales] mcyE: 2 sequences saved to E:\Research\Research\ExtractedGenes\Chroococcales\mcyE.fasta
+[Chroococcales] mcyH: 2 sequences saved to E:\Research\Research\ExtractedGenes\Chroococcales\mcyH.fasta
+[Nostocales] ABC transporter: 9566 sequences saved to E:\Research\Research\ExtractedGenes\Nostocales\ABC transporter.fasta
+[Nostocales] adenylation: 410 sequences saved to E:\Research\Research\ExtractedGenes\Nostocales\adenylation.fasta
+[Nostocales] mcyH: 1 sequences saved to E:\Research\Research\ExtractedGenes\Nostocales\mcyH.fasta
+[Nostocales] mcyE: 1 sequences saved to E:\Research\Research\ExtractedGenes\Nostocales\mcyE.fasta
+[Nostocales] mcyA: 1 sequences saved to E:\Research\Research\ExtractedGenes\Nostocales\mcyA.fasta
+[Nostocales] mcyB: 1 sequences saved to E:\Research\Research\ExtractedGenes\Nostocales\mcyB.fasta
+[Oscillatoriales] ABC transporter: 5085 sequences saved to E:\Research\Research\ExtractedGenes\Oscillatoriales\ABC transporter.fasta
+[Oscillatoriales] adenylation: 104 sequences saved to E:\Research\Research\ExtractedGenes\Oscillatoriales\adenylation.fasta
+
+Parsing mcya_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 16 times
+Using ProteinNameSpannerCharLength = 5
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcya_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Chroococcales\mcya_msa.fasta
+mcya_msa.fasta, Status, 0, 0, Protein count, 99
+mcya_msa.fasta, Status, 0, 0, Residue count, 528,642
+mcya_msa.fasta, Error, 0, 0, Error count, 10
+mcya_msa.fasta, Error, 300, 2, lcl|CP073041.1_cds_UXE58882.1_4601, Duplicate protein name found
+mcya_msa.fasta, Error, 302, 2, lcl|CP073041.1_cds_UXE58883.1_4602, Duplicate protein name found
+mcya_msa.fasta, Error, 304, 2, lcl|CP073041.1_cds_UXE58884.1_4603, Duplicate protein name found
+mcya_msa.fasta, Error, 306, 2, lcl|CP073041.1_cds_UXE58885.1_4604, Duplicate protein name found
+mcya_msa.fasta, Error, 308, 2, lcl|CP073041.1_cds_UXE58890.1_4609, Duplicate protein name found
+mcya_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 90 sequences are DNA (residues are A, T, C, or G)
+mcya_msa.fasta, Warning, 0, 0, Warning count, 206
+mcya_msa.fasta, Warning, 123, 1, lcl|AP009552.1_cds_BAG03679.1_3854, Residues line is longer than the suggested maximum length of 120 characters (8364)
+mcya_msa.fasta, Warning, 125, 1, lcl|AP019314.1_cds_BBH38822.1_1278, Residues line is longer than the suggested maximum length of 120 characters (8364)
+mcya_msa.fasta, Warning, 127, 1, lcl|CP001291.1_cds_ACK69280.1_806, Residues line is longer than the suggested maximum length of 120 characters (4350)
+mcya_msa.fasta, Warning, 129, 1, lcl|CP001291.1_cds_ACK73338.1_4864, Residues line is longer than the suggested maximum length of 120 characters (4011)
+mcya_msa.fasta, Warning, 131, 1, lcl|CP001292.1_cds_ACK73815.1_5341, Residues line is longer than the suggested maximum length of 120 characters (4365)
+mcya_msa.fasta, Warning, 317, 1, lcl|CP001291.1_cds_ACK73338.1_4864, Duplicate protein sequences found (lcl|CP001291.1_cds_ACK73338.1_4864, lcl|NC_011729.1_cds_WP_015956918.1_4959), ATGATTCAACTGTCTAATAC
+mcya_msa.fasta, Warning, 317, 1, lcl|JACJSW010000106.1_cds_MBD2621757.1_160, Duplicate protein sequences found (lcl|JACJSW010000106.1_cds_MBD2621757.1_160, lcl|NZ_JACJSW010000106.1_cds_WP_190721070.1_163), ATGGCTTTTTCCCCCGAAAT
+mcya_msa.fasta, Warning, 317, 1, lcl|SFAT01000015.1_cds_TRV01224.1_1213, Duplicate protein sequences found (lcl|SFAT01000015.1_cds_TRV01224.1_1213, lcl|SFAS01000024.1_cds_TRV05364.1_2532), ATGGTGTCCAAGACAAACAT
+mcya_msa.fasta, Warning, 317, 1, lcl|SFAT01000015.1_cds_TRV01227.1_1216, Duplicate protein sequences found (lcl|SFAT01000015.1_cds_TRV01227.1_1216, lcl|SFAS01000024.1_cds_TRV05361.1_2529), ATGACTGACTCCCTCGCCCG
+mcya_msa.fasta, Warning, 317, 1, lcl|JACJPS010000212.1_cds_MBD2117849.1_1388, Duplicate protein sequences found (lcl|JACJPS010000212.1_cds_MBD2117849.1_1388, lcl|NZ_JACJPS010000212.1_cds_WP_190381237.1_1391), ATGGCTTTTTCCCCCGAAAT
+mcya_msa.fasta, Warning, 122, 1, AF183408.1:36793-45180, Residues are likely DNA instead of amino acids, ATGGAAGCACATCTGGTTTC
+mcya_msa.fasta, Warning, 124, 1, lcl|AP009552.1_cds_BAG03679.1_3854, Residues are likely DNA instead of amino acids, ATGGAAGCACATCTGGTTTC
+mcya_msa.fasta, Warning, 126, 1, lcl|AP019314.1_cds_BBH38822.1_1278, Residues are likely DNA instead of amino acids, ATGGAAGCACATCTGGTTTC
+mcya_msa.fasta, Warning, 128, 1, lcl|CP001291.1_cds_ACK69280.1_806, Residues are likely DNA instead of amino acids, ATGGTACAACAACCAGTCAA
+mcya_msa.fasta, Warning, 130, 1, lcl|CP001291.1_cds_ACK73338.1_4864, Residues are likely DNA instead of amino acids, ATGATTCAACTGTCTAATAC
+mcya_msa.fasta, Status, 0, 0, Summary line, 99 proteins, 528642 residues, 537 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcya_msa 99 seqs, max length 14091, avg  length 5339
+00:00:01      8 MB(3%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:01      8 MB(3%)  Iter   1  100.00%  K-mer dist pass 2
+00:07:50  692 MB(100%)  Iter   1  100.00%  Align node
+00:07:50  692 MB(100%)  Iter   1  100.00%  Root alignment
+00:11:59  771 MB(100%)  Iter   2  100.00%  Refine tree
+00:11:59  771 MB(100%)  Iter   2   81.82%  Root alignment
+[Chroococcales] MSA complete: E:\Research\Research\MSA\Chroococcales\mcya_aligned.fasta
+
+Parsing mcyb_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 16 times
+Using ProteinNameSpannerCharLength = 5
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcyb_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Chroococcales\mcyb_msa.fasta
+mcyb_msa.fasta, Status, 0, 0, Protein count, 99
+mcyb_msa.fasta, Status, 0, 0, Residue count, 522,669
+mcyb_msa.fasta, Error, 0, 0, Error count, 10
+mcyb_msa.fasta, Error, 272, 2, lcl|CP073041.1_cds_UXE58882.1_4601, Duplicate protein name found
+mcyb_msa.fasta, Error, 274, 2, lcl|CP073041.1_cds_UXE58883.1_4602, Duplicate protein name found
+mcyb_msa.fasta, Error, 276, 2, lcl|CP073041.1_cds_UXE58884.1_4603, Duplicate protein name found
+mcyb_msa.fasta, Error, 278, 2, lcl|CP073041.1_cds_UXE58885.1_4604, Duplicate protein name found
+mcyb_msa.fasta, Error, 280, 2, lcl|CP073041.1_cds_UXE58890.1_4609, Duplicate protein name found
+mcyb_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 90 sequences are DNA (residues are A, T, C, or G)
+mcyb_msa.fasta, Warning, 0, 0, Warning count, 206
+mcyb_msa.fasta, Warning, 95, 1, lcl|AP009552.1_cds_BAG03678.1_3853, Residues line is longer than the suggested maximum length of 120 characters (6381)
+mcyb_msa.fasta, Warning, 97, 1, lcl|AP019314.1_cds_BBH38821.1_1277, Residues line is longer than the suggested maximum length of 120 characters (6381)
+mcyb_msa.fasta, Warning, 99, 1, lcl|CP001291.1_cds_ACK69280.1_806, Residues line is longer than the suggested maximum length of 120 characters (4350)
+mcyb_msa.fasta, Warning, 101, 1, lcl|CP001291.1_cds_ACK73338.1_4864, Residues line is longer than the suggested maximum length of 120 characters (4011)
+mcyb_msa.fasta, Warning, 103, 1, lcl|CP001292.1_cds_ACK73815.1_5341, Residues line is longer than the suggested maximum length of 120 characters (4365)
+mcyb_msa.fasta, Warning, 289, 1, lcl|CP001291.1_cds_ACK73338.1_4864, Duplicate protein sequences found (lcl|CP001291.1_cds_ACK73338.1_4864, lcl|NC_011729.1_cds_WP_015956918.1_4959), ATGATTCAACTGTCTAATAC
+mcyb_msa.fasta, Warning, 289, 1, lcl|JACJSW010000106.1_cds_MBD2621757.1_160, Duplicate protein sequences found (lcl|JACJSW010000106.1_cds_MBD2621757.1_160, lcl|NZ_JACJSW010000106.1_cds_WP_190721070.1_163), ATGGCTTTTTCCCCCGAAAT
+mcyb_msa.fasta, Warning, 289, 1, lcl|SFAT01000015.1_cds_TRV01224.1_1213, Duplicate protein sequences found (lcl|SFAT01000015.1_cds_TRV01224.1_1213, lcl|SFAS01000024.1_cds_TRV05364.1_2532), ATGGTGTCCAAGACAAACAT
+mcyb_msa.fasta, Warning, 289, 1, lcl|SFAT01000015.1_cds_TRV01227.1_1216, Duplicate protein sequences found (lcl|SFAT01000015.1_cds_TRV01227.1_1216, lcl|SFAS01000024.1_cds_TRV05361.1_2529), ATGACTGACTCCCTCGCCCG
+mcyb_msa.fasta, Warning, 289, 1, lcl|JACJPS010000212.1_cds_MBD2117849.1_1388, Duplicate protein sequences found (lcl|JACJPS010000212.1_cds_MBD2117849.1_1388, lcl|NZ_JACJPS010000212.1_cds_WP_190381237.1_1391), ATGGCTTTTTCCCCCGAAAT
+mcyb_msa.fasta, Warning, 94, 1, AF183408.1:45196-51576, Residues are likely DNA instead of amino acids, ATGGCAGACACAAAAAATCA
+mcyb_msa.fasta, Warning, 96, 1, lcl|AP009552.1_cds_BAG03678.1_3853, Residues are likely DNA instead of amino acids, ATGGCAGACACAAAAAATCA
+mcyb_msa.fasta, Warning, 98, 1, lcl|AP019314.1_cds_BBH38821.1_1277, Residues are likely DNA instead of amino acids, ATGGCAGACACAAAAAATCA
+mcyb_msa.fasta, Warning, 100, 1, lcl|CP001291.1_cds_ACK69280.1_806, Residues are likely DNA instead of amino acids, ATGGTACAACAACCAGTCAA
+mcyb_msa.fasta, Warning, 102, 1, lcl|CP001291.1_cds_ACK73338.1_4864, Residues are likely DNA instead of amino acids, ATGATTCAACTGTCTAATAC
+mcyb_msa.fasta, Status, 0, 0, Summary line, 99 proteins, 522669 residues, 531 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcyb_msa 99 seqs, max length 14091, avg  length 5279
+00:00:01      8 MB(1%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:01      8 MB(1%)  Iter   1  100.00%  K-mer dist pass 2
+00:04:48   748 MB(51%)  Iter   1  100.00%  Align node
+00:04:48   751 MB(51%)  Iter   1  100.00%  Root alignment
+00:08:39   857 MB(58%)  Iter   2  100.00%  Refine tree
+00:08:39   857 MB(58%)  Iter   2   81.82%  Root alignment
+[Chroococcales] MSA complete: E:\Research\Research\MSA\Chroococcales\mcyb_aligned.fasta
+
+Parsing mcye_msa.fasta
+Processing: 0% Shortest common prefix: lcl|AP0, length 7, seen 1 times
+Using ProteinNameSpannerCharLength = 8
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcye_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Chroococcales\mcye_msa.fasta
+mcye_msa.fasta, Status, 0, 0, Protein count, 3
+mcye_msa.fasta, Status, 0, 0, Residue count, 31,392
+mcye_msa.fasta, Error, 0, 0, Error count, 1
+mcye_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 3 sequences are DNA (residues are A, T, C, or G)
+mcye_msa.fasta, Warning, 0, 0, Warning count, 5
+mcye_msa.fasta, Warning, 153, 1, lcl|AP009552.1_cds_BAG03683.1_3858, Residues line is longer than the suggested maximum length of 120 characters (10464)
+mcye_msa.fasta, Warning, 155, 1, lcl|AP019314.1_cds_BBH38824.1_1280, Residues line is longer than the suggested maximum length of 120 characters (10464)
+mcye_msa.fasta, Warning, 152, 1, AF183408.1:13710-24173, Residues are likely DNA instead of amino acids, CTAAAAATTAAAATCTTCTG
+mcye_msa.fasta, Warning, 154, 1, lcl|AP009552.1_cds_BAG03683.1_3858, Residues are likely DNA instead of amino acids, ATGGTTGAGAGTATAGATTA
+mcye_msa.fasta, Warning, 155, 1, lcl|AP019314.1_cds_BBH38824.1_1280, Residues are likely DNA instead of amino acids, ATGGTTGAGAGTATAGATTA
+mcye_msa.fasta, Status, 0, 0, Summary line, 3 proteins, 31392 residues, 31 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcye_msa 3 seqs, max length 10464, avg  length 10464
+00:00:00      6 MB(0%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:00      6 MB(0%)  Iter   1  100.00%  K-mer dist pass 2
+00:00:08   151 MB(12%)  Iter   1  100.00%  Align node
+00:00:08   151 MB(12%)  Iter   1  100.00%  Root alignment
+00:00:08   151 MB(12%)  Iter   2  100.00%  Root alignment
+00:00:23   167 MB(13%)  Iter   3  100.00%  Refine biparts
+
+[Chroococcales] MSA complete: E:\Research\Research\MSA\Chroococcales\mcye_aligned.fasta
+
+Parsing mcyh_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 19 times
+Using ProteinNameSpannerCharLength = 5
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcyh_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Chroococcales\mcyh_msa.fasta
+mcyh_msa.fasta, Status, 0, 0, Protein count, 3,941
+mcyh_msa.fasta, Status, 0, 0, Residue count, 4,276,430
+mcyh_msa.fasta, Error, 0, 0, Error count, 142
+mcyh_msa.fasta, Error, 7624, 2, lcl|CP073041.1_cds_UXE61484.1_33, Duplicate protein name found
+mcyh_msa.fasta, Error, 7626, 2, lcl|CP073041.1_cds_UXE61485.1_34, Duplicate protein name found
+mcyh_msa.fasta, Error, 7628, 2, lcl|CP073041.1_cds_UXE61486.1_35, Duplicate protein name found
+mcyh_msa.fasta, Error, 7630, 2, lcl|CP073041.1_cds_UXE61488.1_37, Duplicate protein name found
+mcyh_msa.fasta, Error, 7632, 2, lcl|CP073041.1_cds_UXE61624.1_231, Duplicate protein name found
+mcyh_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 3800 sequences are DNA (residues are A, T, C, or G)
+mcyh_msa.fasta, Warning, 0, 0, Warning count, 8983
+mcyh_msa.fasta, Warning, 27, 1, lcl|AP009552.1_cds_BAG03686.1_3861, Residues line is longer than the suggested maximum length of 120 characters (1758)
+mcyh_msa.fasta, Warning, 29, 1, lcl|AP019314.1_cds_BBH38827.1_1283, Residues line is longer than the suggested maximum length of 120 characters (1758)
+mcyh_msa.fasta, Warning, 31, 1, lcl|CP001291.1_cds_ACK68530.1_56, Residues line is longer than the suggested maximum length of 120 characters (1026)
+mcyh_msa.fasta, Warning, 33, 1, lcl|CP001291.1_cds_ACK68532.1_58, Residues line is longer than the suggested maximum length of 120 characters (774)
+mcyh_msa.fasta, Warning, 35, 1, lcl|CP001291.1_cds_ACK68540.1_66, Residues line is longer than the suggested maximum length of 120 characters (1746)
+mcyh_msa.fasta, Warning, 7905, 1, lcl|AP009552.1_cds_BAG03686.1_3861, Duplicate protein sequences found (lcl|AP009552.1_cds_BAG03686.1_3861, lcl|AP019314.1_cds_BBH38827.1_1283, lcl|NC_010296.1_cds_WP_002797061.1_3502, lcl|NZ_AP019314.1_cds_WP_002797061.1_1391), ATGCAAACTCCATTTTTTCA
+mcyh_msa.fasta, Warning, 7905, 1, lcl|CP001291.1_cds_ACK68530.1_56, Duplicate protein sequences found (lcl|CP001291.1_cds_ACK68530.1_56, lcl|NC_011729.1_cds_WP_012597481.1_58), ATGAAAAGTCGTAAAATCTT
+mcyh_msa.fasta, Warning, 7905, 1, lcl|CP001291.1_cds_ACK68532.1_58, Duplicate protein sequences found (lcl|CP001291.1_cds_ACK68532.1_58, lcl|NC_011729.1_cds_WP_012597483.1_60), ATGCACTTGGAAATTATTAA
+mcyh_msa.fasta, Warning, 7905, 1, lcl|CP001291.1_cds_ACK68794.1_320, Duplicate protein sequences found (lcl|CP001291.1_cds_ACK68794.1_320, lcl|NC_011729.1_cds_WP_012597744.1_327), ATGATGACTGACTCAAAAAC
+mcyh_msa.fasta, Warning, 7905, 1, lcl|CP001291.1_cds_ACK69004.1_530, Duplicate protein sequences found (lcl|CP001291.1_cds_ACK69004.1_530, lcl|NC_011729.1_cds_WP_012597951.1_538), ATGATTAATTCTCGCCAATC
+mcyh_msa.fasta, Warning, 26, 1, AF183408.1:3056-4672, Residues are likely DNA instead of amino acids, TTACAGAGCTTTTGAGGCTC
+mcyh_msa.fasta, Warning, 28, 1, lcl|AP009552.1_cds_BAG03686.1_3861, Residues are likely DNA instead of amino acids, ATGCAAACTCCATTTTTTCA
+mcyh_msa.fasta, Warning, 30, 1, lcl|AP019314.1_cds_BBH38827.1_1283, Residues are likely DNA instead of amino acids, ATGCAAACTCCATTTTTTCA
+mcyh_msa.fasta, Warning, 32, 1, lcl|CP001291.1_cds_ACK68530.1_56, Residues are likely DNA instead of amino acids, ATGAAAAGTCGTAAAATCTT
+mcyh_msa.fasta, Warning, 34, 1, lcl|CP001291.1_cds_ACK68532.1_58, Residues are likely DNA instead of amino acids, ATGCACTTGGAAATTATTAA
+mcyh_msa.fasta, Status, 0, 0, Summary line, 3941 proteins, 4276430 residues, 4934 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcyh_msa 3941 seqs, max length 3084, avg  length 1085
+00:02:05   157 MB(15%)  Iter   1  100.00%  K-mer dist pass 1
+00:02:06   157 MB(15%)  Iter   1  100.00%  K-mer dist pass 2
+00:03:49  1375 MB(100%)  Iter   1   68.27%  Align node
+*** OUT OF MEMORY ***
+Memory allocated so far 1359.75 MB
+No alignment generated
+
+[Chroococcales] MSA complete: E:\Research\Research\MSA\Chroococcales\mcyh_aligned.fasta
+
+Parsing mcya_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 15 times
+Using ProteinNameSpannerCharLength = 5
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcya_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Nostocales\mcya_msa.fasta
+mcya_msa.fasta, Status, 0, 0, Protein count, 412
+mcya_msa.fasta, Status, 0, 0, Residue count, 2,217,449
+mcya_msa.fasta, Error, 0, 0, Error count, 1
+mcya_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 412 sequences are DNA (residues are A, T, C, or G)
+mcya_msa.fasta, Warning, 0, 0, Warning count, 980
+mcya_msa.fasta, Warning, 123, 1, lcl|CP003284.1_cds_AFW93775.1_959, Residues line is longer than the suggested maximum length of 120 characters (8367)
+mcya_msa.fasta, Warning, 125, 1, lcl|CP003659.1_cds_AFZ56828.1_1213, Residues line is longer than the suggested maximum length of 120 characters (5049)
+mcya_msa.fasta, Warning, 127, 1, lcl|CP003659.1_cds_AFZ57857.1_2242, Residues line is longer than the suggested maximum length of 120 characters (8787)
+mcya_msa.fasta, Warning, 129, 1, lcl|CP003659.1_cds_AFZ58441.1_2826, Residues line is longer than the suggested maximum length of 120 characters (4122)
+mcya_msa.fasta, Warning, 131, 1, lcl|CP003659.1_cds_AFZ59099.1_3484, Residues line is longer than the suggested maximum length of 120 characters (6126)
+mcya_msa.fasta, Warning, 943, 1, lcl|CP003659.1_cds_AFZ56828.1_1213, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ56828.1_1213, lcl|AP018166.1_cds_BAY06233.1_5459), ATGAACATCGAAAACTTGCA
+mcya_msa.fasta, Warning, 943, 1, lcl|CP003659.1_cds_AFZ58441.1_2826, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ58441.1_2826, lcl|AP018166.1_cds_BAY04565.1_3791, lcl|JACJRP010000070.1_cds_MBD2420548.1_4467), ATGAAATTACTAAATCTAGA
+mcya_msa.fasta, Warning, 943, 1, lcl|CP003659.1_cds_AFZ59099.1_3484, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ59099.1_3484, lcl|AP018166.1_cds_BAY03877.1_3103), ATGAATACATACGAGTTTTT
+mcya_msa.fasta, Warning, 943, 1, lcl|CP003659.1_cds_AFZ59100.1_3485, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ59100.1_3485, lcl|AP018166.1_cds_BAY03876.1_3102), ATGCAATTTCCCCTCTCGTA
+mcya_msa.fasta, Warning, 943, 1, lcl|CP003659.1_cds_AFZ60772.1_5157, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ60772.1_5157, lcl|JACJRP010000057.1_cds_MBD2419793.1_3572, lcl|NZ_AP018166.1_cds_WP_015217384.1_1363), ATGAAAACTATTGATGAATT
+mcya_msa.fasta, Warning, 122, 1, AF183408.1:36793-45180, Residues are likely DNA instead of amino acids, ATGGAAGCACATCTGGTTTC
+mcya_msa.fasta, Warning, 124, 1, lcl|CP003284.1_cds_AFW93775.1_959, Residues are likely DNA instead of amino acids, ATGGACGTGATAGAAACACA
+mcya_msa.fasta, Warning, 126, 1, lcl|CP003659.1_cds_AFZ56828.1_1213, Residues are likely DNA instead of amino acids, ATGAACATCGAAAACTTGCA
+mcya_msa.fasta, Warning, 128, 1, lcl|CP003659.1_cds_AFZ57857.1_2242, Residues are likely DNA instead of amino acids, ATGAAAAATATAGAAGATAC
+mcya_msa.fasta, Warning, 130, 1, lcl|CP003659.1_cds_AFZ58441.1_2826, Residues are likely DNA instead of amino acids, ATGAAATTACTAAATCTAGA
+mcya_msa.fasta, Status, 0, 0, Summary line, 412 proteins, 2217449 residues, 2251 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcya_msa 412 seqs, max length 24789, avg  length 5382
+00:00:06     19 MB(1%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:06     19 MB(1%)  Iter   1  100.00%  K-mer dist pass 2
+00:13:18  1363 MB(86%)  Iter   1   70.80%  Align node
+*** OUT OF MEMORY ***
+Memory allocated so far 1317.1 MB
+No alignment generated
+
+[Nostocales] MSA complete: E:\Research\Research\MSA\Nostocales\mcya_aligned.fasta
+
+Parsing mcyb_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 15 times
+Using ProteinNameSpannerCharLength = 5
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcyb_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Nostocales\mcyb_msa.fasta
+mcyb_msa.fasta, Status, 0, 0, Protein count, 412
+mcyb_msa.fasta, Status, 0, 0, Residue count, 2,213,477
+mcyb_msa.fasta, Error, 0, 0, Error count, 1
+mcyb_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 412 sequences are DNA (residues are A, T, C, or G)
+mcyb_msa.fasta, Warning, 0, 0, Warning count, 980
+mcyb_msa.fasta, Warning, 95, 1, lcl|CP003284.1_cds_AFW93776.1_960, Residues line is longer than the suggested maximum length of 120 characters (6402)
+mcyb_msa.fasta, Warning, 97, 1, lcl|CP003659.1_cds_AFZ56828.1_1213, Residues line is longer than the suggested maximum length of 120 characters (5049)
+mcyb_msa.fasta, Warning, 99, 1, lcl|CP003659.1_cds_AFZ57857.1_2242, Residues line is longer than the suggested maximum length of 120 characters (8787)
+mcyb_msa.fasta, Warning, 101, 1, lcl|CP003659.1_cds_AFZ58441.1_2826, Residues line is longer than the suggested maximum length of 120 characters (4122)
+mcyb_msa.fasta, Warning, 103, 1, lcl|CP003659.1_cds_AFZ59099.1_3484, Residues line is longer than the suggested maximum length of 120 characters (6126)
+mcyb_msa.fasta, Warning, 915, 1, lcl|CP003659.1_cds_AFZ56828.1_1213, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ56828.1_1213, lcl|AP018166.1_cds_BAY06233.1_5459), ATGAACATCGAAAACTTGCA
+mcyb_msa.fasta, Warning, 915, 1, lcl|CP003659.1_cds_AFZ58441.1_2826, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ58441.1_2826, lcl|AP018166.1_cds_BAY04565.1_3791, lcl|JACJRP010000070.1_cds_MBD2420548.1_4467), ATGAAATTACTAAATCTAGA
+mcyb_msa.fasta, Warning, 915, 1, lcl|CP003659.1_cds_AFZ59099.1_3484, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ59099.1_3484, lcl|AP018166.1_cds_BAY03877.1_3103), ATGAATACATACGAGTTTTT
+mcyb_msa.fasta, Warning, 915, 1, lcl|CP003659.1_cds_AFZ59100.1_3485, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ59100.1_3485, lcl|AP018166.1_cds_BAY03876.1_3102), ATGCAATTTCCCCTCTCGTA
+mcyb_msa.fasta, Warning, 915, 1, lcl|CP003659.1_cds_AFZ60772.1_5157, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ60772.1_5157, lcl|JACJRP010000057.1_cds_MBD2419793.1_3572, lcl|NZ_AP018166.1_cds_WP_015217384.1_1363), ATGAAAACTATTGATGAATT
+mcyb_msa.fasta, Warning, 94, 1, AF183408.1:45196-51576, Residues are likely DNA instead of amino acids, ATGGCAGACACAAAAAATCA
+mcyb_msa.fasta, Warning, 96, 1, lcl|CP003284.1_cds_AFW93776.1_960, Residues are likely DNA instead of amino acids, ATGTTAGTTGAAAAATCTCA
+mcyb_msa.fasta, Warning, 98, 1, lcl|CP003659.1_cds_AFZ56828.1_1213, Residues are likely DNA instead of amino acids, ATGAACATCGAAAACTTGCA
+mcyb_msa.fasta, Warning, 100, 1, lcl|CP003659.1_cds_AFZ57857.1_2242, Residues are likely DNA instead of amino acids, ATGAAAAATATAGAAGATAC
+mcyb_msa.fasta, Warning, 102, 1, lcl|CP003659.1_cds_AFZ58441.1_2826, Residues are likely DNA instead of amino acids, ATGAAATTACTAAATCTAGA
+mcyb_msa.fasta, Status, 0, 0, Summary line, 412 proteins, 2213477 residues, 2247 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcyb_msa 412 seqs, max length 24789, avg  length 5372
+00:00:06     19 MB(1%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:06     19 MB(1%)  Iter   1  100.00%  K-mer dist pass 2
+00:12:51  1635 MB(90%)  Iter   1   70.80%  Align node
+*** OUT OF MEMORY ***
+Memory allocated so far 1573.8 MB
+No alignment generated
+
+[Nostocales] MSA complete: E:\Research\Research\MSA\Nostocales\mcyb_aligned.fasta
+
+Parsing mcye_msa.fasta
+Processing: 0% Using ProteinNameSpannerCharLength = 1
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcye_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Nostocales\mcye_msa.fasta
+mcye_msa.fasta, Status, 0, 0, Protein count, 2
+mcye_msa.fasta, Status, 0, 0, Residue count, 20,913
+mcye_msa.fasta, Error, 0, 0, Error count, 1
+mcye_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 2 sequences are DNA (residues are A, T, C, or G)
+mcye_msa.fasta, Warning, 0, 0, Warning count, 3
+mcye_msa.fasta, Warning, 153, 1, lcl|CP003284.1_cds_AFW93771.1_955, Residues line is longer than the suggested maximum length of 120 characters (10449)
+mcye_msa.fasta, Warning, 152, 1, AF183408.1:13710-24173, Residues are likely DNA instead of amino acids, CTAAAAATTAAAATCTTCTG
+mcye_msa.fasta, Warning, 153, 1, lcl|CP003284.1_cds_AFW93771.1_955, Residues are likely DNA instead of amino acids, ATGGCTCAAAATACAGATTA
+mcye_msa.fasta, Status, 0, 0, Summary line, 2 proteins, 20913 residues, 21 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcye_msa 2 seqs, max length 10464, avg  length 10456
+00:00:00      5 MB(0%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:00      5 MB(0%)  Iter   1  100.00%  K-mer dist pass 2
+00:00:04    145 MB(8%)  Iter   1  100.00%  Align node
+00:00:04    145 MB(8%)  Iter   1  100.00%  Root alignment
+
+[Nostocales] MSA complete: E:\Research\Research\MSA\Nostocales\mcye_aligned.fasta
+
+Parsing mcyh_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 23 times
+Using ProteinNameSpannerCharLength = 5
+
+Validating FASTA File (36% Done) (35.9% complete)
+
+Processing: 25% Validating FASTA File (79% Done) (79.2% complete)
+
+Processing: 50% Parsing complete (100.0% complete)
+
+Processing: 100% mcyh_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Nostocales\mcyh_msa.fasta
+mcyh_msa.fasta, Status, 0, 0, Protein count, 9,568
+mcyh_msa.fasta, Status, 0, 0, Residue count, 10,811,837
+mcyh_msa.fasta, Error, 0, 0, Error count, 1
+    mcyh_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 9568 sequences are DNA (residues are A, T, C, or G)
+mcyh_msa.fasta, Warning, 0, 0, Warning count, 22393
+mcyh_msa.fasta, Warning, 27, 1, lcl|CP003284.1_cds_AFW93768.1_952, Residues line is longer than the suggested maximum length of 120 characters (1779)
+mcyh_msa.fasta, Warning, 29, 1, lcl|CP003659.1_cds_AFZ55677.1_62, Residues line is longer than the suggested maximum length of 120 characters (840)
+mcyh_msa.fasta, Warning, 31, 1, lcl|CP003659.1_cds_AFZ55678.1_63, Residues line is longer than the suggested maximum length of 120 characters (870)
+mcyh_msa.fasta, Warning, 33, 1, lcl|CP003659.1_cds_AFZ55679.1_64, Residues line is longer than the suggested maximum length of 120 characters (1116)
+mcyh_msa.fasta, Warning, 35, 1, lcl|CP003659.1_cds_AFZ55680.1_65, Residues line is longer than the suggested maximum length of 120 characters (1083)
+mcyh_msa.fasta, Warning, 19159, 1, lcl|CP003284.1_cds_AFW93768.1_952, Duplicate protein sequences found (lcl|CP003284.1_cds_AFW93768.1_952, lcl|NC_019427.1_cds_WP_015078932.1_1016), ATGCAAAATCAAGTTATTTA
+mcyh_msa.fasta, Warning, 19159, 1, lcl|CP003659.1_cds_AFZ55677.1_62, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ55677.1_62, lcl|AP018166.1_cds_BAY01907.1_1133, lcl|JACJRP010000063.1_cds_MBD2420315.1_4133, lcl|NC_019771.1_cds_WP_015212333.1_62, lcl|NZ_AP018166.1_cds_WP_015212333.1_1133, lcl|NZ_JACJRP010000063.1_cds_WP_015212333.1_4165), ATGACGACAGATAAAAGAAA
+mcyh_msa.fasta, Warning, 19159, 1, lcl|CP003659.1_cds_AFZ55678.1_63, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ55678.1_63, lcl|AP018166.1_cds_BAY01906.1_1132, lcl|JACJRP010000063.1_cds_MBD2420314.1_4132, lcl|NC_019771.1_cds_WP_015212334.1_63, lcl|NZ_AP018166.1_cds_WP_015212334.1_1132, lcl|NZ_JACJRP010000063.1_cds_WP_015212334.1_4164), ATGACCGTATCTTCTTCGGC
+mcyh_msa.fasta, Warning, 19159, 1, lcl|CP003659.1_cds_AFZ55679.1_64, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ55679.1_64, lcl|JACJRP010000063.1_cds_MBD2420313.1_4131, lcl|NC_019771.1_cds_WP_015212335.1_64, lcl|NZ_AP018166.1_cds_WP_015212335.1_1131, lcl|NZ_JACJRP010000063.1_cds_WP_015212335.1_4163), ATGAATTTGCGATCGTTCAA
+mcyh_msa.fasta, Warning, 19159, 1, lcl|CP003659.1_cds_AFZ55680.1_65, Duplicate protein sequences found (lcl|CP003659.1_cds_AFZ55680.1_65, lcl|JACJRP010000063.1_cds_MBD2420312.1_4130, lcl|NC_019771.1_cds_WP_015212336.1_65, lcl|NZ_AP018166.1_cds_WP_015212336.1_1130, lcl|NZ_JACJRP010000063.1_cds_WP_015212336.1_4162), ATGAAATACAATTTCTCAAC
+mcyh_msa.fasta, Warning, 26, 1, AF183408.1:3056-4672, Residues are likely DNA instead of amino acids, TTACAGAGCTTTTGAGGCTC
+mcyh_msa.fasta, Warning, 28, 1, lcl|CP003284.1_cds_AFW93768.1_952, Residues are likely DNA instead of amino acids, ATGCAAAATCAAGTTATTTA
+mcyh_msa.fasta, Warning, 30, 1, lcl|CP003659.1_cds_AFZ55677.1_62, Residues are likely DNA instead of amino acids, ATGACGACAGATAAAAGAAA
+mcyh_msa.fasta, Warning, 32, 1, lcl|CP003659.1_cds_AFZ55678.1_63, Residues are likely DNA instead of amino acids, ATGACCGTATCTTCTTCGGC
+mcyh_msa.fasta, Warning, 34, 1, lcl|CP003659.1_cds_AFZ55679.1_64, Residues are likely DNA instead of amino acids, ATGAATTTGCGATCGTTCAA
+mcyh_msa.fasta, Status, 0, 0, Summary line, 9568 proteins, 10811837 residues, 12412 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcyh_msa 9568 seqs, max length 5472, avg  length 1129
+00:12:44   801 MB(83%)  Iter   1  100.00%  K-mer dist pass 1
+00:12:47   801 MB(83%)  Iter   1  100.00%  K-mer dist pass 2
+00:14:41  1596 MB(100%)  Iter   1   23.47%  Align node
+*** OUT OF MEMORY ***
+Memory allocated so far 1553.75 MB
+No alignment generated
+
+[Nostocales] MSA complete: E:\Research\Research\MSA\Nostocales\mcyh_aligned.fasta
+Warning: Extracted file not found: E:\Research\Research\ExtractedGenes\Oscillatoriales\mcyA.fasta
+
+Parsing mcya_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 10 times
+Using ProteinNameSpannerCharLength = 5
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcya_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Oscillatoriales\mcya_msa.fasta
+mcya_msa.fasta, Status, 0, 0, Protein count, 105
+mcya_msa.fasta, Status, 0, 0, Residue count, 544,026
+mcya_msa.fasta, Error, 0, 0, Error count, 1
+mcya_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 105 sequences are DNA (residues are A, T, C, or G)
+mcya_msa.fasta, Warning, 0, 0, Warning count, 223
+mcya_msa.fasta, Warning, 123, 1, lcl|NZ_CM001775.1_cds_WP_017294956.1_2590, Residues line is longer than the suggested maximum length of 120 characters (2925)
+mcya_msa.fasta, Warning, 125, 1, lcl|NZ_SRRZ01000113.1_cds_E5S67_RS33645_559, Residues line is longer than the suggested maximum length of 120 characters (6654)
+mcya_msa.fasta, Warning, 127, 1, lcl|NZ_SRRZ01000002.1_cds_E5S67_RS33025_2364, Residues line is longer than the suggested maximum length of 120 characters (3750)
+mcya_msa.fasta, Warning, 129, 1, lcl|NZ_CAWPPK010000112.1_cds_AACV46_RS11705_2332, Residues line is longer than the suggested maximum length of 120 characters (3750)
+mcya_msa.fasta, Warning, 131, 1, lcl|PVWG01000050.1_cds_PSB15945.1_3801, Residues line is longer than the suggested maximum length of 120 characters (3345)
+mcya_msa.fasta, Warning, 329, 1, lcl|NZ_SRRZ01000002.1_cds_E5S67_RS33025_2364, Duplicate protein sequences found (lcl|NZ_SRRZ01000002.1_cds_E5S67_RS33025_2364, lcl|NZ_CAWPPK010000112.1_cds_AACV46_RS11705_2332), AACCAACTGAGGTACTGGAA
+mcya_msa.fasta, Warning, 329, 1, lcl|QBMQ01000001.1_cds_PZO55072.1_1249, Duplicate protein sequences found (lcl|QBMQ01000001.1_cds_PZO55072.1_1249, lcl|NZ_MPPI01000001.1_cds_WP_073068983.1_672, lcl|NZ_PVWG01000001.1_cds_WP_073068983.1_1338), ATGTCGTTCGCGTCAGCAAG
+mcya_msa.fasta, Warning, 329, 1, lcl|JACJSA010000006.1_cds_MBD2461910.1_5874, Duplicate protein sequences found (lcl|JACJSA010000006.1_cds_MBD2461910.1_5874, lcl|NZ_JACJSA010000006.1_cds_WP_190506665.1_5977), GTGCAGCCTCTCACAAAACC
+mcya_msa.fasta, Warning, 329, 1, lcl|JAJDMN010000001.1_cds_MCB8758554.1_850, Duplicate protein sequences found (lcl|JAJDMN010000001.1_cds_MCB8758554.1_850, lcl|JAKGPC010000001.1_cds_MCF3644078.1_695), ATGAAAACAGTCGAATTTTT
+mcya_msa.fasta, Warning, 329, 1, lcl|JAJDMN010000001.1_cds_MCB8760511.1_2854, Duplicate protein sequences found (lcl|JAJDMN010000001.1_cds_MCB8760511.1_2854, lcl|JAKGOS010000001.1_cds_MCF3615659.1_1351, lcl|JAKGOU010000001.1_cds_MCF3603434.1_2644, lcl|JAKGPC010000001.1_cds_MCF3646095.1_2762), ATGGTAACACCTCAACAATC
+mcya_msa.fasta, Warning, 122, 1, AF183408.1:36793-45180, Residues are likely DNA instead of amino acids, ATGGAAGCACATCTGGTTTC
+mcya_msa.fasta, Warning, 124, 1, lcl|NZ_CM001775.1_cds_WP_017294956.1_2590, Residues are likely DNA instead of amino acids, ATGACTAATATTATTTATGT
+mcya_msa.fasta, Warning, 126, 1, lcl|NZ_SRRZ01000113.1_cds_E5S67_RS33645_559, Residues are likely DNA instead of amino acids, ATTCATCATATCTTTGAATC
+mcya_msa.fasta, Warning, 128, 1, lcl|NZ_SRRZ01000002.1_cds_E5S67_RS33025_2364, Residues are likely DNA instead of amino acids, AACCAACTGAGGTACTGGAA
+mcya_msa.fasta, Warning, 130, 1, lcl|NZ_CAWPPK010000112.1_cds_AACV46_RS11705_2332, Residues are likely DNA instead of amino acids, AACCAACTGAGGTACTGGAA
+mcya_msa.fasta, Status, 0, 0, Summary line, 105 proteins, 544026 residues, 553 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcya_msa 105 seqs, max length 15291, avg  length 5181
+00:00:01      8 MB(0%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:01      8 MB(0%)  Iter   1  100.00%  K-mer dist pass 2
+00:00:44   315 MB(17%)  Iter   1   41.35%  Align node
+[Oscillatoriales] MSA complete: E:\Research\Research\MSA\Oscillatoriales\mcya_aligned.fasta
+Warning: Extracted file not found: E:\Research\Research\ExtractedGenes\Oscillatoriales\mcyB.fasta
+
+Parsing mcyb_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 10 times
+Using ProteinNameSpannerCharLength = 5
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcyb_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Oscillatoriales\mcyb_msa.fasta
+mcyb_msa.fasta, Status, 0, 0, Protein count, 105
+mcyb_msa.fasta, Status, 0, 0, Residue count, 542,019
+mcyb_msa.fasta, Error, 0, 0, Error count, 1
+mcyb_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The 105 sequences are DNA (residues are A, T, C, or G)
+mcyb_msa.fasta, Warning, 0, 0, Warning count, 223
+mcyb_msa.fasta, Warning, 95, 1, lcl|NZ_CM001775.1_cds_WP_017294956.1_2590, Residues line is longer than the suggested maximum length of 120 characters (2925)
+mcyb_msa.fasta, Warning, 97, 1, lcl|NZ_SRRZ01000113.1_cds_E5S67_RS33645_559, Residues line is longer than the suggested maximum length of 120 characters (6654)
+mcyb_msa.fasta, Warning, 99, 1, lcl|NZ_SRRZ01000002.1_cds_E5S67_RS33025_2364, Residues line is longer than the suggested maximum length of 120 characters (3750)
+mcyb_msa.fasta, Warning, 101, 1, lcl|NZ_CAWPPK010000112.1_cds_AACV46_RS11705_2332, Residues line is longer than the suggested maximum length of 120 characters (3750)
+mcyb_msa.fasta, Warning, 103, 1, lcl|PVWG01000050.1_cds_PSB15945.1_3801, Residues line is longer than the suggested maximum length of 120 characters (3345)
+mcyb_msa.fasta, Warning, 301, 1, lcl|NZ_SRRZ01000002.1_cds_E5S67_RS33025_2364, Duplicate protein sequences found (lcl|NZ_SRRZ01000002.1_cds_E5S67_RS33025_2364, lcl|NZ_CAWPPK010000112.1_cds_AACV46_RS11705_2332), AACCAACTGAGGTACTGGAA
+mcyb_msa.fasta, Warning, 301, 1, lcl|QBMQ01000001.1_cds_PZO55072.1_1249, Duplicate protein sequences found (lcl|QBMQ01000001.1_cds_PZO55072.1_1249, lcl|NZ_MPPI01000001.1_cds_WP_073068983.1_672, lcl|NZ_PVWG01000001.1_cds_WP_073068983.1_1338), ATGTCGTTCGCGTCAGCAAG
+mcyb_msa.fasta, Warning, 301, 1, lcl|JACJSA010000006.1_cds_MBD2461910.1_5874, Duplicate protein sequences found (lcl|JACJSA010000006.1_cds_MBD2461910.1_5874, lcl|NZ_JACJSA010000006.1_cds_WP_190506665.1_5977), GTGCAGCCTCTCACAAAACC
+mcyb_msa.fasta, Warning, 301, 1, lcl|JAJDMN010000001.1_cds_MCB8758554.1_850, Duplicate protein sequences found (lcl|JAJDMN010000001.1_cds_MCB8758554.1_850, lcl|JAKGPC010000001.1_cds_MCF3644078.1_695), ATGAAAACAGTCGAATTTTT
+mcyb_msa.fasta, Warning, 301, 1, lcl|JAJDMN010000001.1_cds_MCB8760511.1_2854, Duplicate protein sequences found (lcl|JAJDMN010000001.1_cds_MCB8760511.1_2854, lcl|JAKGOS010000001.1_cds_MCF3615659.1_1351, lcl|JAKGOU010000001.1_cds_MCF3603434.1_2644, lcl|JAKGPC010000001.1_cds_MCF3646095.1_2762), ATGGTAACACCTCAACAATC
+mcyb_msa.fasta, Warning, 94, 1, AF183408.1:45196-51576, Residues are likely DNA instead of amino acids, ATGGCAGACACAAAAAATCA
+mcyb_msa.fasta, Warning, 96, 1, lcl|NZ_CM001775.1_cds_WP_017294956.1_2590, Residues are likely DNA instead of amino acids, ATGACTAATATTATTTATGT
+mcyb_msa.fasta, Warning, 98, 1, lcl|NZ_SRRZ01000113.1_cds_E5S67_RS33645_559, Residues are likely DNA instead of amino acids, ATTCATCATATCTTTGAATC
+mcyb_msa.fasta, Warning, 100, 1, lcl|NZ_SRRZ01000002.1_cds_E5S67_RS33025_2364, Residues are likely DNA instead of amino acids, AACCAACTGAGGTACTGGAA
+mcyb_msa.fasta, Warning, 102, 1, lcl|NZ_CAWPPK010000112.1_cds_AACV46_RS11705_2332, Residues are likely DNA instead of amino acids, AACCAACTGAGGTACTGGAA
+mcyb_msa.fasta, Status, 0, 0, Summary line, 105 proteins, 542019 residues, 551 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcyb_msa 105 seqs, max length 15291, avg  length 5162
+00:00:01      8 MB(1%)  Iter   1  100.00%  K-mer dist pass 1
+00:00:01      8 MB(1%)  Iter   1  100.00%  K-mer dist pass 2
+00:00:43   315 MB(23%)  Iter   1   41.35%  Align node
+[Oscillatoriales] MSA complete: E:\Research\Research\MSA\Oscillatoriales\mcyb_aligned.fasta
+Warning: Extracted file not found: E:\Research\Research\ExtractedGenes\Oscillatoriales\mcyE.fasta
+
+Parsing mcye_msa.fasta
+Processing: 0% Using ProteinNameSpannerCharLength = 1
+
+Parsing complete (100.0% complete)
+
+Processing: 25% mcye_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Oscillatoriales\mcye_msa.fasta
+mcye_msa.fasta, Status, 0, 0, Protein count, 1
+mcye_msa.fasta, Status, 0, 0, Residue count, 10,464
+mcye_msa.fasta, Error, 0, 0, Error count, 1
+mcye_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The FASTA file has nucleic acids (DNA)), The sequence is DNA (residues are A, T, C, or G)
+mcye_msa.fasta, Warning, 0, 0, Warning count, 1
+mcye_msa.fasta, Warning, 151, 1, AF183408.1:13710-24173, Residues are likely DNA instead of amino acids, CTAAAAATTAAAATCTTCTG
+mcye_msa.fasta, Status, 0, 0, Summary line, 1 proteins, 10464 residues, 11 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcye_msa 1 seqs, max length 10464, avg  length 10464
+
+[Oscillatoriales] MSA complete: E:\Research\Research\MSA\Oscillatoriales\mcye_aligned.fasta
+Warning: Extracted file not found: E:\Research\Research\ExtractedGenes\Oscillatoriales\mcyH.fasta
+
+Parsing mcyh_msa.fasta
+Processing: 0% Shortest common prefix: lcl|, length 4, seen 18 times
+Using ProteinNameSpannerCharLength = 5
+
+Validating FASTA File (58% Done) (58.0% complete)
+
+Processing: 25% Parsing complete (100.0% complete)
+
+Processing: 75% mcyh_msa.fasta, Status, 0, 0, Full path to file, E:\Research\Research\MSA\Oscillatoriales\mcyh_msa.fasta
+mcyh_msa.fasta, Status, 0, 0, Protein count, 5,086
+mcyh_msa.fasta, Status, 0, 0, Residue count, 5,693,997
+mcyh_msa.fasta, Error, 0, 0, Error count, 1
+mcyh_msa.fasta, Error, 0, 1, N/A, Residues are likely DNA instead of amino acids (The majority of the FASTA file entries are nucleic acids (DNA)), 5085 / 5086 sequences are DNA (residues are A, T, C, or G)
+mcyh_msa.fasta, Warning, 0, 0, Warning count, 11561
+mcyh_msa.fasta, Warning, 27, 1, lcl|NZ_CM001775.1_cds_WP_017292372.1_7, Residues line is longer than the suggested maximum length of 120 characters (897)
+mcyh_msa.fasta, Warning, 29, 1, lcl|NZ_CM001775.1_cds_WP_026101837.1_92, Residues line is longer than the suggested maximum length of 120 characters (714)
+mcyh_msa.fasta, Warning, 31, 1, lcl|NZ_CM001775.1_cds_WP_017292541.1_177, Residues line is longer than the suggested maximum length of 120 characters (1254)
+mcyh_msa.fasta, Warning, 33, 1, lcl|NZ_CM001775.1_cds_WP_017292545.1_181, Residues line is longer than the suggested maximum length of 120 characters (831)
+mcyh_msa.fasta, Warning, 35, 1, lcl|NZ_CM001775.1_cds_WP_017292598.1_235, Residues line is longer than the suggested maximum length of 120 characters (1728)
+mcyh_msa.fasta, Warning, 10195, 1, lcl|JAZAQF010000006.1_cds_MFG3816248.1_58, Duplicate protein sequences found (lcl|JAZAQF010000006.1_cds_MFG3816248.1_58, lcl|NZ_JAZAQF010000006.1_cds_WP_393010002.1_58), ATGCTCGCAAATTGGCGCTT
+mcyh_msa.fasta, Warning, 10195, 1, lcl|JAZAQF010000006.1_cds_MFG3816249.1_59, Duplicate protein sequences found (lcl|JAZAQF010000006.1_cds_MFG3816249.1_59, lcl|NZ_JAZAQF010000006.1_cds_WP_190533972.1_59), ATGACCAGCCCCGCCAGTTG
+mcyh_msa.fasta, Warning, 10195, 1, lcl|JAZAQF010000006.1_cds_MFG3816262.1_72, Duplicate protein sequences found (lcl|JAZAQF010000006.1_cds_MFG3816262.1_72, lcl|NZ_JAZAQF010000006.1_cds_WP_393010025.1_72), ATGAGCTTTTCAACTCGCGC
+mcyh_msa.fasta, Warning, 10195, 1, lcl|JAZAQF010000006.1_cds_MFG3816268.1_78, Duplicate protein sequences found (lcl|JAZAQF010000006.1_cds_MFG3816268.1_78, lcl|NZ_JAZAQF010000006.1_cds_WP_393010037.1_78), ATGGCCATTCTTGATTCTTG
+mcyh_msa.fasta, Warning, 10195, 1, lcl|JAZAQF010000006.1_cds_MFG3816321.1_131, Duplicate protein sequences found (lcl|JAZAQF010000006.1_cds_MFG3816321.1_131, lcl|NZ_JAZAQF010000006.1_cds_WP_393010108.1_131), ATGAACCCTCTAGACACCTT
+mcyh_msa.fasta, Warning, 26, 1, AF183408.1:3056-4672, Residues are likely DNA instead of amino acids, TTACAGAGCTTTTGAGGCTC
+mcyh_msa.fasta, Warning, 28, 1, lcl|NZ_CM001775.1_cds_WP_017292372.1_7, Residues are likely DNA instead of amino acids, ATGTTAAGTATTAAAAATTT
+mcyh_msa.fasta, Warning, 30, 1, lcl|NZ_CM001775.1_cds_WP_026101837.1_92, Residues are likely DNA instead of amino acids, ATGACAGCTATATATATAAA
+mcyh_msa.fasta, Warning, 32, 1, lcl|NZ_CM001775.1_cds_WP_017292541.1_177, Residues are likely DNA instead of amino acids, ATGTCAGATACCATTATCAC
+mcyh_msa.fasta, Warning, 34, 1, lcl|NZ_CM001775.1_cds_WP_017292545.1_181, Residues are likely DNA instead of amino acids, ATGACAGAAGTTACCCAAGA
+mcyh_msa.fasta, Status, 0, 0, Summary line, 5086 proteins, 5693997 residues, 6543 KB
+
+Processing: 100%
+
+MUSCLE error:
+MUSCLE v3.8.31 by Robert C. Edgar
+
+http://www.drive5.com/muscle
+This software is donated to the public domain.
+Please cite: Edgar, R.C. Nucleic Acids Res 32(5), 1792-97.
+
+mcyh_msa 5086 seqs, max length 3171, avg  length 1119
+00:03:30   245 MB(25%)  Iter   1  100.00%  K-mer dist pass 1
+00:03:31   245 MB(25%)  Iter   1  100.00%  K-mer dist pass 2
+00:05:03  1134 MB(100%)  Iter   1   45.55%  Align node
+*** OUT OF MEMORY ***
+Memory allocated so far 1134.51 MB
+No alignment generated
+
+[Oscillatoriales] MSA complete: E:\Research\Research\MSA\Oscillatoriales\mcyh_aligned.fasta
+
+E:\Research\Research\bin\Debug\net8.0\Research.exe (process 2200) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
